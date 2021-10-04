@@ -1,0 +1,51 @@
+body:not(.logged-in) {
+    position: relative;
+}
+body, h1, .entry-title a, .entry-content h1, .entry-content h1 a, h2, .entry-content h2, .entry-content h2 a, h3, .entry-content h3, .entry-content h3 a, h4, .entry-content h4, .entry-content h4 a, h5, .entry-content h5, .entry-content h5 a, h6, .entry-content h6, .entry-content h6 a {
+    color: #3a3a3a;
+}
+body, button, input, select, textarea {
+    font-family: 'Varela Round',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-size: 1rem;
+}
+body {
+    overflow-x: hidden;
+}
+body {
+    background-color: #fff;
+}
+body, button, input[type="button"], input[type="submit"], textarea {
+    line-height: 1.85714285714286;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    color: #808285;
+    background: #fff;
+        background-color: rgb(255, 255, 255);
+    font-style: normal;
+}
+body {
+    margin: 0;
+}
+a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, iframe, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+html {
+    font-size: 87.5%;
+}
+
